@@ -45,6 +45,7 @@
 ## Data & Analytics
 
 - [CCXT](https://github.com/ccxt/ccxt) - Unified crypto exchange API library (100+ exchanges).
+- [Chartscout](https://chartscout.io) - Real time crypto Detects chart patterns instantly and alerts you in under 20 seconds.
 - [CryptoFeed](https://github.com/bmoscon/cryptofeed) - Cryptocurrency exchange websocket data feed handler.
 - [TradingView](https://www.tradingview.com/) - Charting platform with social trading features.
 - [CoinGecko API](https://www.coingecko.com/en/api) - Free crypto market data API.
